@@ -1,0 +1,24 @@
+{
+  "name": "todo-list-app",
+  "version": "1.0.0",
+  "description": "todo list app using nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/resaba-kaypee/Todo-list-app.git"
+  },
+  "author": "kp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/resaba-kaypee/Todo-list-app/issues"
+  },
+  "homepage": "https://github.com/resaba-kaypee/Todo-list-app#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.1",
+    "express": "^4.17.1"
+  }
+}
